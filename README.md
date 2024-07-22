@@ -26,12 +26,12 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
+    "nome": "Vitor Grisolia",
+    "email": "grisolia.vitor@gmail.com",
     "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
-    "complemento": "Vila Mariana",
-    "cep": "04101-300"
+    "endereco": "",
+    "complemento": "Planaltina-DF",
+    "cep": ""
 }
 ```
 
@@ -50,7 +50,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "grisolia.vitor@gmail.com",
   "senha":"123456"
 }
 ```
