@@ -29,8 +29,8 @@ Com os seguintes dados:
     "nome": "Vitor Grisolia",
     "email": "grisolia.vitor@gmail.com",
     "senha": "123456",
-    "endereco": "",
-    "complemento": "Planaltina-DF",
+    "endereco": "
+    "complemento": "",
     "cep": ""
 }
 ```
@@ -50,7 +50,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "grisolia.vitor@gmail.com",
+  "email": "vinicios@alura.com.br",
   "senha":"123456"
 }
 ```
